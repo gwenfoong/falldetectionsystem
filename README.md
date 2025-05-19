@@ -8,3 +8,4 @@ This repository implements frame-level, temporal, and two-stream fall detection 
 git clone <repo_url>
 cd ITSS_Project
 pip install -r requirements.txt# falldetectionsystem
+# falldetectionsystem
