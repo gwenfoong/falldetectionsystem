@@ -1,0 +1,18 @@
+# Paths
+dataset_root: "data"
+processed_data_dir: "processed_data"
+models_dir: "models"
+sample_videos_dir: "sample_videos"
+output_dir: "output"
+
+# Fusion parameters
+fusion_alpha: 0.10
+fusion_threshold: 0.10
+smoothing_window: 5
+
+# Temporal settings
+sequence_length: 16
+
+# Frame preprocessing
+frame_size: [224, 224]
+frame_rate: 10
